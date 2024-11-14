@@ -97,4 +97,5 @@ smartphone2.call(2, "+7 900 123 45 67")
 
 print(f"Компьютер и смартфон1 имеют одинаковую память: {computer == smartphone1}")
 print(f"Компьютер и смартфон2 имеют одинаковую память: {computer != smartphone2}")
-print(f"Компьютер имеет больше памяти, чем смартфон1: {computer > smartphone1}")
+print(f"Компьютер имеет больше памяти чем смартфон1: {computer > smartphone1}")
+print()
